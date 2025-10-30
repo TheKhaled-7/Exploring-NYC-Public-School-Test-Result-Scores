@@ -1,4 +1,6 @@
-# NYC Public Schools SAT Performance Analysis
+### NYC Public Schools SAT Performance Analysis
+
+![schoolbus](https://github.com/user-attachments/assets/e779b08b-adf3-4fec-b30d-505de79c537a)
 
 ## 📊 Project Overview
 This project analyzes the SAT performance of New York City public schools to identify top-performing institutions and examine borough-level educational trends. The analysis addresses three key questions about school performance using standardized test data.
